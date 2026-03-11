@@ -1,16 +1,6 @@
 3. Longest Substring Without Repeating Characters
-<<<<<<< HEAD
-Solved
-Medium
-Topics
-premium lock icon
-Companies
-Hint
-=======
->>>>>>> a842ce3 (Solved problems 2 and 3)
-Given a string s, find the length of the longest substring without duplicate characters.
 
- 
+Given a string s, find the length of the longest substring without duplicate characters.
 
 Example 1:
 
